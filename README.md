@@ -1,2 +1,2 @@
 # clone-tabnews
-Projeto de reconstrução do Tab News
+Projeto de reconstrução do TabNews
